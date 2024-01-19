@@ -6,6 +6,7 @@
 - [VirtualBox lab](https://github.com/Wfrestrepo/VirtualBox-Lab-Overview)
 - [Active Directory lab](https://github.com/Wfrestrepo/Active-Directory)
 - [Pfsense Firewall lab](https://github.com/Wfrestrepo/PFsense)
+- [Attacks on VM using Azure(SIEM)](https://github.com/Wfrestrepo/Attacks-on-VM-and-Azure-/blob/main/README.md)
 
   
 <h2> 🤓 Certifications</h2>
